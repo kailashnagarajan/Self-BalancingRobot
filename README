@@ -1,1 +1,1 @@
-This is the 1st stage code for our self balancing robot. Where we've used PD controls to stabilize the osillations and offset in the robot.
+This is the 1st stage code for our self balancing robot, where we've used PD controls to stabilize the osillations and offset in the robot.
